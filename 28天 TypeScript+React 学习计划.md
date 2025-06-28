@@ -14,7 +14,7 @@ ChatGPT, Claude
 
 VS Code, Trae
 
-npm, Electron, React, Vite
+npm, Electron, React
 
 # Week 1：
 
