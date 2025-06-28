@@ -44,7 +44,7 @@ npm, Electron, React, Vite
 
 | 周次  | 每周重点 | 项目实例 | 难度  |
 | --- | --- | --- | --- |
-| **Week 1-2**<br>阶段 0 | **读官方文档**，<br/>掌握理论知识，<br/>熟悉技术栈<br> | React docs、TypeScript docs、Vite docs、Election docs | 2⭐  |
+| **Week 1-2**<br>阶段 0 | **读官方文档**，<br/>掌握理论知识，<br/>熟悉技术栈<br> | React docs、TypeScript docs、Election docs | 2⭐  |
 | **Week 2**<br>阶段 1 | **小项目复现** | 1. 看板 ([react-trello](https://github.com/rcdexta/react-trello)) 3409 lines<br/>2. 思维导图 ([react-mindmap](https://github.com/learn-anything/react-mindmap)) 4782 lines<br/>3. 工作流 ([Workflow-React](https://github.com/StavinLi/Workflow-React)) 3413 lines<br/>3. 简单Markdown编辑 ([simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor)) 1587 lines<br/> | 1⭐  |
 | **Week 3-4**<br>阶段 3 | **完整项目复现** | 1. Markdown编辑器 ([stackedit](https://github.com/benweet/stackedit)) 17339 lines<br/>2. IDE前端界面 ([monaco-react](https://github.com/suren-atoyan/monaco-react)) 17150 lines<br/> | 3⭐  |
 | **Week*5**<br>阶段 4 | **生产级项目源码阅读** | [React Flow](https://github.com/FlowiseAI/Flowise) | 5⭐  |
